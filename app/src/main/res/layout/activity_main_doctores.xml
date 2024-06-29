@@ -1,10 +1,287 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:background="#FFFFFFFF"
+android:id="@+id/Login_Adm"
+android:clipChildren="false"
+android:clipToPadding="false"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+<ScrollView
+    android:id="@+id/row26cf3aj8h"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="doctores.MainActivity_Doctores">
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:background="#FFFFFFFF"
+    android:paddingBottom="151dp"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:fillViewport="true">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:id="@+id/Login_Doc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/rdjouzottbog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="143dp"
+            android:layout_marginBottom="21dp"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/rx3kn8caiz1h"
+                android:layout_width="311dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:clipChildren="false"
+                android:clipToPadding="false">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/r2nbsuu7u3o9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clipChildren="false"
+                        android:clipToPadding="false">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:clipChildren="false"
+                            android:clipToPadding="false"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:id="@+id/rde4mf3kih"
+                                android:layout_width="match_parent"
+                                android:layout_height="240dp"
+                                android:background="@drawable/sffb1b2ffsw4"
+                                android:orientation="vertical"></LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/rfp1jeodc1je"
+                            android:layout_width="294dp"
+                            android:layout_height="213dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginEnd="-12dp"
+                            android:background="@drawable/sffb1b2ffsw4"
+                            android:clipChildren="false"
+                            android:clipToPadding="false"
+                            android:orientation="vertical"></LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/r8b1zy3eye3d"
+                            android:layout_width="265dp"
+                            android:layout_height="232dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginEnd="-5dp"
+                            android:background="@drawable/sffb1b2ffsw4"
+                            android:clipChildren="false"
+                            android:clipToPadding="false"
+                            android:orientation="vertical"></LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/rgyr6him06gw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="-40dp"
+                    android:layout_marginBottom="87dp"
+                    android:text="Iniciar sesión"
+                    android:textColor="#000000"
+                    android:textSize="32sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/rhfgobk7ug7i"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="102dp"
+            android:layout_marginBottom="17dp"
+            android:text="Correo electrònico o Usuario\n"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:id="@+id/rtqyv10dbv58"
+            android:layout_width="380dp"
+            android:layout_height="45dp"
+            android:layout_marginHorizontal="19dp"
+            android:layout_marginBottom="32dp"
+            android:background="@drawable/cr10bffd2daff"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:orientation="vertical"
+            android:paddingHorizontal="5dp">
+
+            <RelativeLayout
+                android:id="@+id/rw5a7kl6i36_rl"
+                android:layout_width="41dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:clipChildren="false"
+                android:clipToPadding="false">
+
+                <ImageView
+                    android:id="@+id/rw5a7kl6i36"
+                    android:layout_width="41dp"
+                    android:layout_height="40dp"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/ic_launcher" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/r2if048mam8j"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="170dp"
+            android:layout_marginBottom="9dp"
+            android:text="Contraseña:"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:id="@+id/r07uu7tauow5l"
+            android:layout_width="380dp"
+            android:layout_height="45dp"
+            android:layout_marginHorizontal="19dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/cr10bffd2daff"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:orientation="vertical"
+            android:paddingLeft="332dp"
+            android:paddingRight="7dp">
+
+            <RelativeLayout
+                android:id="@+id/raty13wrc01_rl"
+                android:layout_width="41dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:clipChildren="false"
+                android:clipToPadding="false">
+
+                <ImageView
+                    android:id="@+id/raty13wrc01"
+                    android:layout_width="41dp"
+                    android:layout_height="40dp"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/ic_launcher" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/rg1wfesj3s7u"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="133dp"
+            android:layout_marginBottom="77dp"
+            android:text="¿olvidastes la contraseña?"
+            android:textColor="#20007B"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:id="@+id/ry8q6mijssbm"
+            android:layout_width="380dp"
+            android:layout_height="57dp"
+            android:layout_marginHorizontal="19dp"
+            android:layout_marginBottom="23dp"
+            android:background="@drawable/cr30bff82b6ff"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:orientation="vertical"
+            android:paddingHorizontal="125dp"
+            android:paddingVertical="18dp">
+
+            <TextView
+                android:id="@+id/rluu7s66zsj"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Iniciar seción"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/r1xcdwjupjya"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="19dp"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/rvf2wjevudy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="166dp"
+                android:text="Or"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/rd22fscqpjo7"
+                android:layout_width="34dp"
+                android:layout_height="109dp"
+                android:layout_marginHorizontal="34dp"
+                android:scaleType="fitXY"
+                android:src="@mipmap/ic_launcher" />
+
+            <LinearLayout
+                android:id="@+id/ra1dpsnunbf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cr30bffeef1ff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:orientation="vertical"
+                android:paddingVertical="18dp"
+                android:paddingLeft="93dp"
+                android:paddingRight="66dp">
+
+                <TextView
+                    android:id="@+id/raqnaoounpdb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Iniciar seción con google"
+                    android:textColor="#4B4B4B"
+                    android:textSize="20sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/reipr9rvfnx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="91dp"
+            android:text="¿No tienes una cuenta? Registrate"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>
+

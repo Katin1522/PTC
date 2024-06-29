@@ -13,6 +13,21 @@
         android:theme="@style/Theme.PTC"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity_Menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_recuperarContrasena"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_LoginA"
+            android:exported="false" />
+        <activity
+            android:name="doctores.MainActivity_Doctores"
+            android:exported="false" />
+        <activity
+            android:name="Doctores.Login_Doctores"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
