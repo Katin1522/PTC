@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cr279">
+        <item name="cornerSize">279dp</item>
+    </style>
+    <style name="cr135">
+        <item name="cornerSize">135dp</item>
+    </style>
+</resources>
