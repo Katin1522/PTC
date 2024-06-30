@@ -13,6 +13,9 @@
         android:theme="@style/Theme.PTC"
         tools:targetApi="31">
         <activity
+            android:name=".Notificaciones"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity_Menu"
             android:exported="false" />
         <activity
