@@ -8,7 +8,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <ScrollView
-        android:id="@+id/r2nryu7ifnr4"
+        android:id="@+id/rsdy03g9gfnr"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
@@ -25,7 +25,7 @@
             android:clipToPadding="false"
             android:orientation="vertical">
             <LinearLayout
-                android:id="@+id/rc4750bbce8v"
+                android:id="@+id/rncc2xq7x00g"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
@@ -35,7 +35,7 @@
                 android:clipToPadding="false"
                 android:orientation="horizontal">
                 <RelativeLayout
-                    android:id="@+id/rweocga1a02"
+                    android:id="@+id/rtg8zy7yo6g"
                     android:layout_width="30dp"
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="12dp"
@@ -49,7 +49,7 @@
                         android:clipToPadding="false"
                         android:orientation="vertical">
                         <ImageView
-                            android:id="@+id/rw0aapt1q2hq"
+                            android:id="@+id/r5ojw1qiy23w"
                             android:layout_width="match_parent"
                             android:layout_height="30dp"
                             android:src="@mipmap/ic_launcher"
@@ -57,7 +57,7 @@
                             />
                     </LinearLayout>
                     <ImageView
-                        android:id="@+id/rmc4rvk4f4nf"
+                        android:id="@+id/rv7bet7wskfk"
                         android:layout_width="22dp"
                         android:layout_height="25dp"
                         android:layout_marginBottom="-2dp"
@@ -68,7 +68,7 @@
                         />
                 </RelativeLayout>
                 <TextView
-                    android:id="@+id/r2z8rpcpyse"
+                    android:id="@+id/rivzjmn9kinj"
                     android:textColor="#000000"
                     android:textSize="30sp"
                     android:layout_height="wrap_content"
@@ -78,7 +78,7 @@
                     />
             </LinearLayout>
             <TextView
-                android:id="@+id/rcp79dlksswi"
+                android:id="@+id/rrwjc9nrc1nl"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="6dp"
@@ -88,7 +88,7 @@
                 android:text="Nombre"
                 />
             <LinearLayout
-                android:id="@+id/r4t02ctn2xsr"
+                android:id="@+id/rwgll6usw4oc"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -99,7 +99,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/rbwczd9wnx8"
+                android:id="@+id/r0dhactxjgmqc"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="7dp"
@@ -109,7 +109,7 @@
                 android:text="Habitación"
                 />
             <LinearLayout
-                android:id="@+id/rha95x6ssq8t"
+                android:id="@+id/rhyaq5yr0rws"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -120,7 +120,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/r61i4cxd5a4t"
+                android:id="@+id/rrc3zphkngbn"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="12dp"
@@ -130,7 +130,7 @@
                 android:text="Categoria"
                 />
             <LinearLayout
-                android:id="@+id/rwgaqollmzq"
+                android:id="@+id/rewv7qsafuuq"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -141,7 +141,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/r81vldlsdngh"
+                android:id="@+id/ruay5aehekhd"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="2dp"
@@ -151,7 +151,7 @@
                 android:text="Diagnostico"
                 />
             <LinearLayout
-                android:id="@+id/ro26ld8gq6l"
+                android:id="@+id/rqr0o078smos"
                 android:layout_width="338dp"
                 android:layout_height="128dp"
                 android:background="@drawable/cr10bffaac4ff"
@@ -162,7 +162,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/rg8uhmlq36l"
+                android:id="@+id/r7zi44mykcht"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="11dp"
@@ -172,7 +172,7 @@
                 android:text="Historial "
                 />
             <LinearLayout
-                android:id="@+id/rxhbr5u556k"
+                android:id="@+id/rzqilg0vuned"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="27dp"
@@ -180,7 +180,7 @@
                 android:clipToPadding="false"
                 android:orientation="vertical">
                 <LinearLayout
-                    android:id="@+id/r06f3udbgp9kd"
+                    android:id="@+id/rqni6m9jc1vm"
                     android:layout_width="338dp"
                     android:layout_height="128dp"
                     android:background="@drawable/cr10bffaac4ff"
@@ -189,7 +189,7 @@
                     android:orientation="vertical">
                 </LinearLayout>
                 <ImageView
-                    android:id="@+id/rpayba08alr8"
+                    android:id="@+id/r67a4qnukw1p"
                     android:layout_width="206dp"
                     android:layout_height="213dp"
                     android:layout_marginTop="-40dp"
@@ -197,18 +197,18 @@
                     android:scaleType="fitXY"
                     />
                 <LinearLayout
-                    android:id="@+id/rk4c80lqlpp"
+                    android:id="@+id/rmelqrb1ekii"
                     android:layout_width="103dp"
                     android:layout_height="32dp"
                     android:gravity="center_horizontal"
-                    android:background="@drawable/cr10bffd2daff"
+                    android:background="@drawable/cr10bff5f95d7"
                     android:paddingVertical="9dp"
                     android:layout_marginHorizontal="22dp"
                     android:clipChildren="false"
                     android:clipToPadding="false"
                     android:orientation="vertical">
                     <TextView
-                        android:id="@+id/rb5b9k7im4e9"
+                        android:id="@+id/rrrsn0dl2kys"
                         android:textColor="#000000"
                         android:textSize="20sp"
                         android:layout_height="wrap_content"
@@ -220,4 +220,3 @@
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
-

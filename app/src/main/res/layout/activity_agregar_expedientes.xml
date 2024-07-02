@@ -8,7 +8,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <ScrollView
-        android:id="@+id/r66oi9lveewg"
+        android:id="@+id/rvama06i95de"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
@@ -25,7 +25,7 @@
             android:clipToPadding="false"
             android:orientation="vertical">
             <LinearLayout
-                android:id="@+id/rhnisocdcslp"
+                android:id="@+id/r06f0q7f4c7lv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="44dp"
@@ -34,7 +34,7 @@
                 android:clipToPadding="false"
                 android:orientation="horizontal">
                 <RelativeLayout
-                    android:id="@+id/r6uaecco5y16"
+                    android:id="@+id/r784i13ihib6"
                     android:layout_width="30dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="11dp"
@@ -48,7 +48,7 @@
                         android:clipToPadding="false"
                         android:orientation="vertical">
                         <ImageView
-                            android:id="@+id/rjkfpogudemo"
+                            android:id="@+id/rptfstqi4vi"
                             android:layout_width="match_parent"
                             android:layout_height="30dp"
                             android:src="@mipmap/ic_launcher"
@@ -56,7 +56,7 @@
                             />
                     </LinearLayout>
                     <ImageView
-                        android:id="@+id/r9cywd3nmbdd"
+                        android:id="@+id/rt0on3iapkh"
                         android:layout_width="22dp"
                         android:layout_height="25dp"
                         android:layout_marginBottom="-2dp"
@@ -72,7 +72,7 @@
                     android:layout_weight="1"
                     />
                 <TextView
-                    android:id="@+id/r5iy1qm0wfto"
+                    android:id="@+id/r7rie77i983l"
                     android:textColor="#000000"
                     android:textSize="30sp"
                     android:layout_marginTop="19dp"
@@ -86,7 +86,7 @@
                     android:layout_weight="1"
                     />
                 <ImageView
-                    android:id="@+id/rsliudmall0f"
+                    android:id="@+id/rhiprvv614go"
                     android:layout_width="70dp"
                     android:layout_height="69dp"
                     android:src="@mipmap/ic_launcher"
@@ -94,7 +94,7 @@
                     />
             </LinearLayout>
             <TextView
-                android:id="@+id/rbq99i0j4cm7"
+                android:id="@+id/r28nb2bopm7w"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="6dp"
@@ -104,7 +104,7 @@
                 android:text="Nombre"
                 />
             <LinearLayout
-                android:id="@+id/r6zsmg710f2"
+                android:id="@+id/r30avskbafgy"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -115,7 +115,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/r8iyf55ivr7"
+                android:id="@+id/rcu1pv6hlgns"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="7dp"
@@ -125,7 +125,7 @@
                 android:text="Habitación"
                 />
             <LinearLayout
-                android:id="@+id/rgr3gd5wryl"
+                android:id="@+id/rz2dav9723l"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -136,7 +136,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/rnwge3uhu7f"
+                android:id="@+id/rqkhep81hkb"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="12dp"
@@ -146,7 +146,7 @@
                 android:text="Categoria"
                 />
             <LinearLayout
-                android:id="@+id/rylzamf83dm"
+                android:id="@+id/rigln5iz5u4d"
                 android:layout_width="338dp"
                 android:layout_height="40dp"
                 android:background="@drawable/cr10bffd2daff"
@@ -157,7 +157,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/rt0furc4wfmi"
+                android:id="@+id/r8a5y0c3gsuh"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="2dp"
@@ -167,7 +167,7 @@
                 android:text="Diagnostico"
                 />
             <LinearLayout
-                android:id="@+id/r1knjpy4g6ir"
+                android:id="@+id/r0hon57nzo5ua"
                 android:layout_width="338dp"
                 android:layout_height="128dp"
                 android:background="@drawable/cr10bffaac4ff"
@@ -178,7 +178,7 @@
                 android:orientation="vertical">
             </LinearLayout>
             <TextView
-                android:id="@+id/rz506u377v27"
+                android:id="@+id/rtfj88eogsam"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:layout_marginBottom="11dp"
@@ -188,7 +188,7 @@
                 android:text="Historial "
                 />
             <LinearLayout
-                android:id="@+id/rlxe9wh1q3a"
+                android:id="@+id/rxvg38ktvkg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="40dp"
@@ -196,7 +196,7 @@
                 android:clipToPadding="false"
                 android:orientation="vertical">
                 <LinearLayout
-                    android:id="@+id/r1p0bytn6zni"
+                    android:id="@+id/rb6mvi7mo8zf"
                     android:layout_width="338dp"
                     android:layout_height="128dp"
                     android:background="@drawable/cr10bffaac4ff"
@@ -205,7 +205,7 @@
                     android:orientation="vertical">
                 </LinearLayout>
                 <ImageView
-                    android:id="@+id/ramjw2hp6srs"
+                    android:id="@+id/r2li27mxrdh8"
                     android:layout_width="188dp"
                     android:layout_height="183dp"
                     android:layout_marginTop="-13dp"
@@ -213,18 +213,18 @@
                     android:scaleType="fitXY"
                     />
                 <LinearLayout
-                    android:id="@+id/rl7rnqhlx1fg"
+                    android:id="@+id/rsl63vetu9a"
                     android:layout_width="103dp"
                     android:layout_height="32dp"
                     android:gravity="center_horizontal"
-                    android:background="@drawable/cr10bffd2daff"
+                    android:background="@drawable/cr10bff5f95d7"
                     android:paddingVertical="9dp"
                     android:layout_marginHorizontal="22dp"
                     android:clipChildren="false"
                     android:clipToPadding="false"
                     android:orientation="vertical">
                     <TextView
-                        android:id="@+id/rupptwqevf4"
+                        android:id="@+id/rg8pyao1enec"
                         android:textColor="#000000"
                         android:textSize="20sp"
                         android:layout_height="wrap_content"
