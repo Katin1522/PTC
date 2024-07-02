@@ -1,0 +1,221 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFFFF"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:id="@+id/ro4awqwnyu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFFFF"
+        android:paddingTop="65dp"
+        android:paddingBottom="96dp"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/r8n2wc6zerhv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="46dp"
+                android:layout_marginBottom="15dp"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rk00h2hbdkek"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:clipChildren="false"
+                    android:clipToPadding="false">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clipChildren="false"
+                        android:clipToPadding="false"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/r994n9emjgl"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/ic_launcher" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/r51i83tii9n3"
+                        android:layout_width="22dp"
+                        android:layout_height="25dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginBottom="-2dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/ic_launcher" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/rkzr3whlxiu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Configuración de sistema "
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r3j5b15we4oj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="54dp"
+                android:layout_marginBottom="7dp"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/r8fzonvb0ejo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="139dp"
+                    android:text="Nombre"
+                    android:textColor="#000000"
+                    android:textSize="30sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:id="@+id/r3rkohe7auvq"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/ic_launcher" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/rertyndd02rv"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginHorizontal="76dp"
+                android:layout_marginBottom="32dp"
+                android:background="@drawable/cr10bffd2daff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:elevation="4dp"
+                android:orientation="vertical"></LinearLayout>
+
+            <TextView
+                android:id="@+id/rlc055guju7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="70dp"
+                android:layout_marginBottom="16dp"
+                android:text="Usuario"
+                android:textColor="#000000"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:id="@+id/r7kogedzgg9"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginHorizontal="76dp"
+                android:layout_marginBottom="42dp"
+                android:background="@drawable/cr10bffd2daff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:elevation="4dp"
+                android:orientation="vertical"></LinearLayout>
+
+            <TextView
+                android:id="@+id/r0vqmxinsesye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="59dp"
+                android:layout_marginBottom="15dp"
+                android:text="Contraseñá"
+                android:textColor="#000000"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:id="@+id/rae53gws1hx5"
+                android:layout_width="276dp"
+                android:layout_height="48dp"
+                android:layout_marginHorizontal="66dp"
+                android:layout_marginBottom="42dp"
+                android:background="@drawable/cr10bffd2daff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:elevation="4dp"
+                android:orientation="vertical"></LinearLayout>
+
+            <TextView
+                android:id="@+id/rt3u5bt37q1e"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginBottom="15dp"
+                android:text="Rol"
+                android:textColor="#000000"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:id="@+id/regpjveryq5o"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginHorizontal="75dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/cr10bffd2daff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:orientation="vertical"></LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r6qhdc0b9vch"
+                android:layout_width="156dp"
+                android:layout_height="65dp"
+                android:layout_marginHorizontal="125dp"
+                android:background="@drawable/cr10bffaac4ff"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:elevation="4dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingVertical="22dp">
+
+                <TextView
+                    android:id="@+id/r96u228lmq1o"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Agregar"
+                    android:textColor="#000000"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+

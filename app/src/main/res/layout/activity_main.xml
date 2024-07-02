@@ -30,7 +30,7 @@
                 android:text="Registratre"
                 />
             <ImageView
-                android:id="@+id/rk4lun1r2jln"
+                android:id="@+id/imgregistrarse"
                 android:layout_width="349dp"
                 android:layout_height="286dp"
                 android:layout_marginBottom="6dp"
@@ -38,16 +38,15 @@
                 android:src="@mipmap/ic_launcher"
                 android:scaleType="fitXY"
                 />
+
             <TextView
-                android:id="@+id/rwgn6mf3wwsa"
-                android:textColor="#000000"
-                android:textSize="18sp"
-                android:layout_marginBottom="13dp"
-                android:layout_marginStart="37dp"
-                android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="37dp"
+                android:layout_marginBottom="13dp"
                 android:text="Nombre:"
-                />
+                android:textColor="#000000"
+                android:textSize="18sp" />
             <LinearLayout
                 android:id="@+id/rrfz3jwmn8z"
                 android:layout_width="380dp"
@@ -58,21 +57,22 @@
                 android:layout_marginBottom="55dp"
                 android:layout_marginHorizontal="18dp"
                 android:orientation="vertical">
+
                 <RelativeLayout
                     android:id="@+id/rtjvrq5yv7eq_rl"
                     android:layout_width="41dp"
                     android:layout_height="40dp"
-                    android:layout_marginTop="3dp"
-                    >
+                    android:layout_marginTop="4dp">
                     <ImageView
                         android:id="@+id/rtjvrq5yv7eq"
                         android:layout_width="41dp"
                         android:layout_height="40dp"
                         android:src="@mipmap/ic_launcher"
-                        android:scaleType="fitXY"
-                        />
+                        android:scaleType="fitXY" />
                 </RelativeLayout>
+
             </LinearLayout>
+
             <TextView
                 android:id="@+id/rhrgfxmz5q7u"
                 android:textColor="#000000"
@@ -108,13 +108,13 @@
                         android:src="@mipmap/ic_launcher"
                         android:scaleType="fitXY"
                         />
+
                     <ImageView
                         android:id="@+id/rcm7ed4nhqnl"
                         android:layout_width="match_parent"
                         android:layout_height="40dp"
-                        android:src="@mipmap/ic_launcher"
                         android:scaleType="fitXY"
-                        />
+                        android:src="@mipmap/ic_launcher" />
                 </LinearLayout>
             </LinearLayout>
             <TextView
