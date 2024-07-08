@@ -104,7 +104,7 @@
                     android:id="@+id/r6txvca0vnm3"
                     android:layout_width="50dp"
                     android:layout_height="60dp"
-                    android:background="@drawable/cr12bffaac4ff"
+                    android:background="@drawable/cr10bff7387c2"
                     android:layout_marginEnd="26dp"
                     android:orientation="vertical">
                 </LinearLayout>

@@ -94,9 +94,9 @@
                     android:id="@+id/rxhfst4tdp3p"
                     android:layout_width="75dp"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/cr10bff6092cf"
+                    android:background="@drawable/cr10bffb1b2ff"
                     android:paddingHorizontal="15dp"
-                    android:orientation="vertical">
+                    android:orientation="horizontal">
                     <ImageView
                         android:id="@+id/rzhisy5h2zlk"
                         android:layout_width="match_parent"
@@ -190,9 +190,9 @@
                     android:id="@+id/ristwb7oayc"
                     android:layout_width="75dp"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/cr10bff82b6ff"
-                    android:paddingHorizontal="8dp"
-                    android:orientation="vertical">
+                    android:background="@drawable/cr30bff82b6ff"
+                    android:paddingHorizontal="8dp">
+
                     <ImageView
                         android:id="@+id/rxlqiuyezq1h"
                         android:layout_width="match_parent"
