@@ -493,30 +493,32 @@
                                 android:src="@mipmap/ic_launcher"
                                 android:scaleType="fitXY"
                                 />
-                            <LinearLayout
-                                android:paddingTop="4dp"
-                                android:paddingBottom="270dp"
-                                android:paddingHorizontal="42dp"
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:clipChildren="false"
-                                android:clipToPadding="false"
-                                android:orientation="vertical">
-                                <TextView
-                                    android:id="@+id/r735djud8qz8"
-                                    android:textColor="#000000"
-                                    android:textSize="15sp"
-                                    android:layout_height="wrap_content"
-                                    android:layout_width="wrap_content"
-                                    android:text="Medicamentos"
-                                    />
-                            </LinearLayout>
+
                         </RelativeLayout>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:paddingHorizontal="42dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="270dp">
+
+        <TextView
+            android:id="@+id/r735djud8qz8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicamentos"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+    </LinearLayout>
 </LinearLayout>
 
 

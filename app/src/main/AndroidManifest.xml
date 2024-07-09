@@ -13,6 +13,12 @@
         android:theme="@style/Theme.PTC"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivityHorario"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityExpediente"
+            android:exported="false" />
+        <activity
             android:name="Enfermeras.Registro_enfermeras"
             android:exported="false" />
         <activity
