@@ -1,6 +1,7 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:background="#FFFFFFFF"
     android:orientation="vertical"
     android:id="@+id/Login_Adm"
@@ -52,29 +53,40 @@
                 android:textSize="18sp" />
 
             <LinearLayout
-                android:id="@+id/txtNombreRegistro"
+                android:id="@+id/rn9bjbl07bj"
                 android:layout_width="380dp"
                 android:layout_height="45dp"
-                android:layout_marginHorizontal="18dp"
-                android:layout_marginBottom="55dp"
+                android:gravity="center_vertical"
                 android:background="@drawable/cr10bffd2daff"
-                android:orientation="vertical"
-                android:paddingLeft="334dp"
-                android:paddingRight="5dp">
+                android:paddingVertical="2dp"
+                android:paddingHorizontal="5dp"
+                android:layout_marginBottom="32dp"
+                android:layout_marginHorizontal="19dp"
+                android:orientation="horizontal">
 
                 <RelativeLayout
-                    android:id="@+id/rtjvrq5yv7eq_rl"
+                    android:id="@+id/relative"
                     android:layout_width="41dp"
                     android:layout_height="40dp"
-                    android:layout_marginTop="3dp">
-
+                    android:layout_marginEnd="53dp"
+                    >
                     <ImageView
-                        android:id="@+id/rtjvrq5yv7eq"
+                        android:id="@+id/rdt7aqd6n113"
                         android:layout_width="41dp"
                         android:layout_height="40dp"
+                        android:src="@mipmap/ic_launcher"
                         android:scaleType="fitXY"
-                        android:src="@mipmap/ic_launcher" />
+                        />
                 </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/txtContraRe"
+                    android:layout_width="41dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:hint="Ingresa tu Correo o Usuario"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
             </LinearLayout>
 
             <TextView
@@ -88,33 +100,44 @@
                 android:textSize="18sp" />
 
             <LinearLayout
-                android:id="@+id/txtUsusarioRegistro"
-                android:layout_width="382dp"
+                android:id="@+id/rjum8walflkl"
+                android:layout_width="380dp"
                 android:layout_height="45dp"
-                android:layout_marginHorizontal="18dp"
-                android:layout_marginBottom="53dp"
-                android:background="@drawable/cr10bffd2daff"
                 android:gravity="center_vertical"
-                android:orientation="horizontal"
+                android:background="@drawable/cr10bffd2daff"
                 android:paddingVertical="2dp"
-                android:paddingLeft="2dp"
-                android:paddingRight="337dp">
+                android:paddingLeft="102dp"
+                android:paddingRight="6dp"
+                android:layout_marginBottom="24dp"
+                android:layout_marginHorizontal="19dp"
+                android:orientation="horizontal">
 
-                <LinearLayout
-                    android:id="@+id/r80txujsa8d3"
+                <EditText
+                    android:id="@+id/txtUsuarioRe"
+                    android:layout_width="225dp"
+                    android:layout_height="48dp"
+                    android:hint="Ingresa "
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+
+                <View
                     android:layout_width="0dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="0dp"
                     android:layout_weight="1"
-                    android:orientation="vertical">
-
+                    />
+                <RelativeLayout
+                    android:id="@+id/rv6gff9cb2_rl"
+                    android:layout_width="41dp"
+                    android:layout_height="40dp"
+                    >
                     <ImageView
-                        android:id="@+id/rrnv9kwnbcp"
-                        android:layout_width="match_parent"
+                        android:id="@+id/rv6gff9cb2"
+                        android:layout_width="41dp"
                         android:layout_height="40dp"
+                        android:src="@mipmap/ic_launcher"
                         android:scaleType="fitXY"
-                        android:src="@mipmap/ic_launcher" />
-
-                </LinearLayout>
+                        />
+                </RelativeLayout>
 
                 <ImageView
                     android:id="@+id/rcm7ed4nhqnl"
@@ -135,30 +158,38 @@
                 android:textSize="18sp" />
 
             <LinearLayout
-                android:id="@+id/txtContraseñaRegistro"
-                android:layout_width="370dp"
+                android:id="@+id/LinerLayout1"
+                android:layout_width="380dp"
                 android:layout_height="45dp"
-                android:layout_marginHorizontal="18dp"
-                android:layout_marginBottom="86dp"
+                android:layout_marginHorizontal="19dp"
+                android:layout_marginBottom="32dp"
                 android:background="@drawable/cr10bffd2daff"
-                android:orientation="vertical"
-                android:paddingLeft="326dp"
-                android:paddingRight="13dp">
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingHorizontal="5dp"
+                android:paddingVertical="2dp">
 
                 <RelativeLayout
-                    android:id="@+id/rygt7h2kxsan_rl"
+                    android:id="@id/relative"
                     android:layout_width="41dp"
                     android:layout_height="40dp"
-                    android:layout_marginTop="3dp">
+                    android:layout_marginEnd="53dp">
 
                     <ImageView
-                        android:id="@+id/rygt7h2kxsan"
-                        android:layout_width="41dp"
-                        android:layout_height="40dp"
-                        android:scaleType="fitXY"
-                        android:src="@mipmap/ic_launcher" />
+                        android:id="@+id/img"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        tools:srcCompat="@tools:sample/avatars" />
                 </RelativeLayout>
 
+                <EditText
+                    android:id="@id/txtContraRe"
+                    android:layout_width="41dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:hint="Ingresa una contraseña"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -179,6 +210,14 @@
                     android:textColor="#FFFFFF"
                     android:textSize="34sp" />
             </LinearLayout>
+
+            <EditText
+                android:id="@+id/editTextText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="text"
+                android:text="Name" />
 
         </LinearLayout>
     </ScrollView>

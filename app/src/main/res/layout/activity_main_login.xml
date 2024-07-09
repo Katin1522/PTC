@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:background="#FFFFFFFF"
-    android:id="@+id/Login_Adm"
     android:clipChildren="false"
     android:clipToPadding="false"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <ScrollView
-        android:id="@+id/rm7tvnfcubr"
+        android:id="@+id/r7cm3u7zya98"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="#FFFFFFFF"
-        android:paddingBottom="151dp"
+        android:paddingBottom="83dp"
         android:clipChildren="false"
         android:clipToPadding="false"
         android:fillViewport="true">
@@ -27,173 +24,129 @@
             android:clipToPadding="false"
             android:orientation="vertical">
             <LinearLayout
-                android:id="@+id/ryzktkomet5s"
+                android:id="@+id/r1m0usaeh6bu"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center_vertical"
-                android:layout_marginBottom="22dp"
-                android:layout_marginHorizontal="143dp"
-                android:clipChildren="false"
-                android:clipToPadding="false"
-                android:orientation="horizontal">
-                <RelativeLayout
-                    android:id="@+id/rx1bcgujzz89"
-                    android:layout_width="311dp"
+                android:paddingBottom="42dp"
+                android:paddingRight="12dp"
+                android:layout_marginBottom="47dp"
+                android:layout_marginHorizontal="123dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/rza8zpne3n4a"
+                    android:textColor="#000000"
+                    android:textSize="32sp"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="40dp"
-                    android:clipChildren="false"
-                    android:clipToPadding="false"
-                    >
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:clipChildren="false"
-                        android:clipToPadding="false"
-                        android:orientation="vertical">
-                        <RelativeLayout
-                            android:id="@+id/r0d96zvq6fftl"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:clipChildren="false"
-                            android:clipToPadding="false"
-                            >
-                            <LinearLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:clipChildren="false"
-                                android:clipToPadding="false"
-                                android:orientation="vertical">
-                                <LinearLayout
-                                    android:id="@+id/rv8qm39pq2w"
-                                    android:layout_width="match_parent"
-                                    android:layout_height="240dp"
-                                    android:background="@drawable/sffb1b2ffsw4"
-                                    android:orientation="vertical">
-                                </LinearLayout>
-                            </LinearLayout>
-                            <LinearLayout
-                                android:id="@+id/rzq5ouhdtdwa"
-                                android:layout_marginTop="0dp"
-                                android:layout_marginEnd="-12dp"
-                                android:layout_alignParentRight="true"
-                                android:layout_width="294dp"
-                                android:layout_height="213dp"
-                                android:background="@drawable/sffb1b2ffsw4"
-                                android:clipChildren="false"
-                                android:clipToPadding="false"
-                                android:orientation="vertical">
-                            </LinearLayout>
-                            <LinearLayout
-                                android:id="@+id/r21zmsf6zy2c"
-                                android:layout_marginTop="0dp"
-                                android:layout_marginEnd="-5dp"
-                                android:layout_alignParentRight="true"
-                                android:layout_width="265dp"
-                                android:layout_height="232dp"
-                                android:background="@drawable/sffb1b2ffsw4"
-                                android:clipChildren="false"
-                                android:clipToPadding="false"
-                                android:orientation="vertical">
-                            </LinearLayout>
-                        </RelativeLayout>
-                    </LinearLayout>
-                    <TextView
-                        android:id="@+id/rnd1qz6zl2eb"
-                        android:textColor="#000000"
-                        android:textSize="32sp"
-                        android:layout_marginBottom="86dp"
-                        android:layout_marginStart="-40dp"
-                        android:layout_alignParentBottom="true"
-                        android:layout_height="wrap_content"
-                        android:layout_width="wrap_content"
-                        android:text="Iniciar sesión"
-                        />
-                </RelativeLayout>
+                    android:layout_width="wrap_content"
+                    android:text="Iniciar sesión"
+                    />
+                <LinearLayout
+                    android:id="@+id/rem2hqjxofl8"
+                    android:layout_width="311dp"
+                    android:layout_height="240dp"
+                    android:background="@drawable/sffb1b2ffsw4"
+                    android:orientation="vertical">
+                </LinearLayout>
+
             </LinearLayout>
             <TextView
-                android:id="@+id/r92l29whx77"
+                android:id="@+id/roy0pre9j0pa"
                 android:textColor="#000000"
                 android:textSize="18sp"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="17dp"
                 android:layout_marginStart="102dp"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Correo electrònico o Usuario\n"
                 />
-
             <LinearLayout
-                android:id="@+id/rlcbtrxz6kth"
+                android:id="@+id/rn9bjbl07bj"
                 android:layout_width="380dp"
                 android:layout_height="45dp"
-                android:layout_marginHorizontal="19dp"
-                android:layout_marginBottom="33dp"
+                android:gravity="center_vertical"
                 android:background="@drawable/cr10bffd2daff"
-                android:clipChildren="false"
-                android:clipToPadding="false"
-                android:orientation="horizontal"
-                android:paddingHorizontal="5dp">
-
+                android:paddingVertical="2dp"
+                android:paddingHorizontal="5dp"
+                android:layout_marginBottom="32dp"
+                android:layout_marginHorizontal="19dp"
+                android:orientation="horizontal">
                 <RelativeLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent">
-
+                    android:id="@+id/relative"
+                    android:layout_width="41dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="53dp"
+                    >
                     <ImageView
-                        android:id="@+id/imageView"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="320dp"
-
-                        tools:srcCompat="@tools:sample/avatars" />
-
-                    <EditText
-                        android:id="@+id/txtCorreoSesion"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:ems="10"
-                        android:hint="Correo o Usuario"
-                        android:inputType="text" />
-
+                        android:id="@+id/rdt7aqd6n113"
+                        android:layout_width="41dp"
+                        android:layout_height="40dp"
+                        android:src="@mipmap/ic_launcher"
+                        android:scaleType="fitXY"
+                        />
                 </RelativeLayout>
 
+                <EditText
+                    android:id="@+id/txtContraRe"
+                    android:layout_width="41dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:hint="Ingresa tu Correo o Usuario"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
             </LinearLayout>
             <TextView
-                android:id="@+id/r5wzb0lljota"
+                android:id="@+id/r4f8ilqhhrhr"
                 android:textColor="#000000"
                 android:textSize="18sp"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="9dp"
                 android:layout_marginStart="170dp"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Contraseña:"
                 />
-
             <LinearLayout
-                android:id="@+id/rrup1okd8yhe"
-                android:layout_width="376dp"
+                android:id="@+id/rjum8walflkl"
+                android:layout_width="380dp"
                 android:layout_height="45dp"
-                android:layout_marginHorizontal="19dp"
-                android:layout_marginBottom="24dp"
+                android:gravity="center_vertical"
                 android:background="@drawable/cr10bffd2daff"
-                android:clipChildren="false"
-                android:clipToPadding="false"
-                android:orientation="horizontal"
-                android:paddingLeft="333dp"
-                android:paddingRight="7dp">
+                android:paddingVertical="2dp"
+                android:paddingLeft="102dp"
+                android:paddingRight="6dp"
+                android:layout_marginBottom="24dp"
+                android:layout_marginHorizontal="19dp"
+                android:orientation="horizontal">
 
+                <EditText
+                    android:id="@+id/txtUsuarioRe"
+                    android:layout_width="225dp"
+                    android:layout_height="48dp"
+                    android:hint="Ingresa tu contraseña"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    />
                 <RelativeLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-
+                    android:id="@+id/rv6gff9cb2_rl"
+                    android:layout_width="41dp"
+                    android:layout_height="40dp"
+                    >
                     <ImageView
-                        android:id="@+id/imageView2"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        tools:srcCompat="@tools:sample/avatars" />
+                        android:id="@+id/rv6gff9cb2"
+                        android:layout_width="41dp"
+                        android:layout_height="40dp"
+                        android:src="@mipmap/ic_launcher"
+                        android:scaleType="fitXY"
+                        />
                 </RelativeLayout>
-
             </LinearLayout>
             <TextView
-                android:id="@+id/r1xea0jvl5sv"
+                android:id="@+id/re2hdj66gpni"
                 android:textColor="#20007B"
                 android:textSize="14sp"
                 android:layout_marginBottom="77dp"
@@ -203,19 +156,17 @@
                 android:text="¿olvidastes la contraseña?"
                 />
             <LinearLayout
-                android:id="@+id/rswh4oc2o7f"
+                android:id="@+id/rcjqi54lelci"
                 android:layout_width="380dp"
                 android:layout_height="57dp"
                 android:background="@drawable/cr30bff82b6ff"
                 android:paddingVertical="18dp"
                 android:paddingHorizontal="125dp"
-                android:layout_marginBottom="23dp"
+                android:layout_marginBottom="22dp"
                 android:layout_marginHorizontal="19dp"
-                android:clipChildren="false"
-                android:clipToPadding="false"
                 android:orientation="vertical">
                 <TextView
-                    android:id="@+id/rtvewpiizawm"
+                    android:id="@+id/r59cbtv32h5"
                     android:textColor="#FFFFFF"
                     android:textSize="20sp"
                     android:layout_height="wrap_content"
@@ -223,54 +174,63 @@
                     android:text="Iniciar seción"
                     />
             </LinearLayout>
-            <LinearLayout
-                android:id="@+id/rb121bj7rwd7"
-                android:layout_width="match_parent"
+            <TextView
+                android:id="@+id/rmbpsf5aph2q"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:layout_marginBottom="23dp"
+                android:layout_marginStart="199dp"
                 android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Or"
+                />
+            <RelativeLayout
+                android:id="@+id/rsuhz2zw09hc"
+                android:layout_width="380dp"
+                android:layout_height="57dp"
+                android:layout_marginBottom="26dp"
                 android:layout_marginHorizontal="19dp"
                 android:clipChildren="false"
                 android:clipToPadding="false"
-                android:orientation="vertical">
-                <TextView
-                    android:id="@+id/rsholdce2il"
-                    android:textColor="#000000"
-                    android:textSize="18sp"
-                    android:layout_marginStart="166dp"
-                    android:layout_height="wrap_content"
-                    android:layout_width="wrap_content"
-                    android:text="Or"
-                    />
-                <ImageView
-                    android:id="@+id/ryqi1f4fnfsf"
-                    android:layout_width="34dp"
-                    android:layout_height="109dp"
-                    android:layout_marginHorizontal="34dp"
-                    android:src="@mipmap/ic_launcher"
-                    android:scaleType="fitXY"
-                    />
+                >
                 <LinearLayout
-                    android:id="@+id/rn28w9usqje"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@drawable/cr30bffeef1ff"
-                    android:paddingVertical="16dp"
-                    android:paddingLeft="94dp"
-                    android:paddingRight="65dp"
+                    android:layout_height="match_parent"
                     android:clipChildren="false"
                     android:clipToPadding="false"
                     android:orientation="vertical">
-                    <TextView
-                        android:id="@+id/rma0037fj34"
-                        android:textColor="#4B4B4B"
-                        android:textSize="20sp"
+                    <LinearLayout
+                        android:id="@+id/r7arc3eb1ove"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_width="wrap_content"
-                        android:text="Iniciar seción con google"
-                        />
+                        android:background="@drawable/cr30bffeef1ff"
+                        android:paddingVertical="18dp"
+                        android:paddingLeft="93dp"
+                        android:paddingRight="66dp"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/rqkdqi46hjm"
+                            android:textColor="#4B4B4B"
+                            android:textSize="20sp"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:text="Iniciar seción con google"
+                            />
+                    </LinearLayout>
                 </LinearLayout>
-            </LinearLayout>
+                <ImageView
+                    android:id="@+id/rc40p0f2rjhm"
+                    android:layout_width="37dp"
+                    android:layout_height="54dp"
+                    android:layout_marginBottom="-1dp"
+                    android:layout_marginStart="31dp"
+                    android:layout_alignParentBottom="true"
+                    android:src="@mipmap/ic_launcher"
+                    android:scaleType="fitXY"
+                    />
+            </RelativeLayout>
             <TextView
-                android:id="@+id/r1f6n45s1je1"
+                android:id="@+id/rwlssu062p6"
                 android:textSize="16sp"
                 android:layout_marginStart="91dp"
                 android:layout_height="wrap_content"
